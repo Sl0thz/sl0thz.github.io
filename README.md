@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Richard Leonardo — Portfolio (Vite + React)
 
 ```bash
@@ -23,3 +24,6 @@ Deploy to Netlify: build command `npm run build`, publish directory `dist`.
 ## To do
 - **Project screenshots:** put images in `public/screenshots/` and set `image: '/screenshots/aruna.png'` in `projects.js`. Until then a gradient card is shown.
 - **Academic Program Coordinator (Anagata Sisedu Nusantara):** dates and description were not in the CV, so the card shows only the title and company. Fill them in `story.js` (`teachingRoles`).
+=======
+# sl0thz.github.io
+>>>>>>> 768f4993e99b4f51c71c11eda52b6a655336d915
